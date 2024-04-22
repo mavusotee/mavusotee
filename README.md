@@ -23,7 +23,7 @@ Hi there! 👋 Welcome to my GitHub profile! I'm THOKOZANI MAVUSO, a passionate 
 ### Projects
 
 I love to dive into various projects, ranging from practical applications to whimsical experiments. Here are some highlights:
-THIS IS MY PORTFOLIO WEBSITE: https://mavusotee.github.io/mavuso/
+THIS IS MY PORTFOLIO WEBSITE: [https://mavusotee.github.io/mavuso/](https://www.mavusothokozani.com/)
 MORE TO COME!!!
 
 ## Let's Connect
