@@ -22,6 +22,8 @@ Hi there! 👋 Welcome to my GitHub profile! I'm THOKOZANI MAVUSO, a passionate 
 
 ### Projects
 
+#CURRENTLY ALL PROJECTS ARE TO BE VIEWED ON DESKTOP
+
 I love to dive into various projects, ranging from practical applications to whimsical experiments. Here are some highlights:
 THIS IS MY PORTFOLIO WEBSITE: (https://www.mavusothokozani.com/)
 MORE TO COME!!!
