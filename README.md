@@ -11,7 +11,7 @@ Hi there! 👋 Welcome to my GitHub profile! I'm THOKOZANI MAVUSO, a passionate 
 - 🤖 A tech enthusiast with a keen interest in AI, robotics, and emerging technologies.
 - 😄 Love to infuse humor and sarcasm into my projects and interactions.
 
-##TECHNOLOGIES
+###TECHNOLOGIES
 1. HTML5
 2. CSS, SCSS, TAILWINDCSS
 3. GSAP and JAVASCRIPT
