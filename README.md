@@ -16,9 +16,10 @@ Hi there! 👋 Welcome to my GitHub profile! I'm THOKOZANI MAVUSO, a passionate 
 2. CSS, SCSS, TAILWINDCSS
 3. GSAP and JAVASCRIPT
 4. VUE.JS
-5. ANGULARJS
-6. PYTHON
-7. C++
+5. NEXTJS
+6. REACT
+7. PYTHON
+8. C++
 
 ### Projects
 
